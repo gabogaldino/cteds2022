@@ -1,0 +1,17 @@
+Professor: Saulo Macedo dos Santos (saulo.macedosantos@gmail.com)
+Duração: (18h)
+Dias: 22/08 (SEG); 26/08 (SEX); 29/08 (SEG); 02/09 (SEX); 05/09(SEG); 09/09(SEX)
+
+Conteúdo:
+
+Leitura e escrita de arquivos
+Acesso a banco de dados
+Programação paralela
+Assinatura e implantação de assemblies
+.NET Core, .NET Standard and .NET Framework
+Visão geral de Padrões de Projeto
+
+
+Bibliografia:
+
+ALBAHARI, J. C# 9.0 in a Nutshell: The Definitive Reference. O’Reilly Media,2021.

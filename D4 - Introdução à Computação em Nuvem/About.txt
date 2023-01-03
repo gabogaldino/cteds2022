@@ -1,0 +1,17 @@
+Professor: Eroilton Borges Jr. (eroilton.borges@microsoft.com)
+Duração: (9h)
+Dias: 14/09 (QUA); 21/09 (QUA); 07/10 (SEX)
+
+Conteúdo:
+
+Conceitos básicos de computação em nuvem
+Serviços principais do Azure
+Segurança
+Ciclo de vida e SLA
+Desenvolvimento client-side
+
+
+Bibliografia:
+
+ERL, T.; MAHMOOD, Z.; PUTTINI, R. Cloud Computing: Concepts, Technology & Architecture. Prentice Hall, 2013.
+KAVIS, M. J. Architecting the Cloud: Design Decisions for Cloud Computing Service Models (SaaS, PaaS, and IaaS). Willey, 2014

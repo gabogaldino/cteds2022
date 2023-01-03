@@ -1,0 +1,254 @@
+﻿<Window x:Class="wpf_demo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:wpf_demo"
+        mc:Ignorable="d"
+        Title="WPF Demo" Height="450" Width="800"
+        
+        WindowStartupLocation="CenterScreen">
+    <Grid>
+        <!--<TextBlock
+            VerticalAlignment="Center"
+            HorizontalAlignment="Center"
+            FontSize="16"
+            FontWeight="Bold"
+            >Exemplo de controle de texto</TextBlock>-->
+
+        <!--<Rectangle Width="200" Height="100" Fill="Purple" />-->
+
+        <!--<Button
+            Height="50"
+            Width="200"
+            Content="Exemplo de botão"
+            FontSize="18"
+            Foreground="Orange"
+            Background="Purple"
+            Cursor="Hand"
+            >
+        </Button>-->
+        
+        <!--Outra forma-->
+
+        <!--<Button
+            Height="50"
+            Width="200"
+            Content="Exemplo de botão"
+            FontSize="18"
+            Foreground="Orange"
+            Cursor="Hand"
+            >
+            <Button.Background>
+                <SolidColorBrush Color="Purple" />
+            </Button.Background>
+        </Button>-->
+        
+        <!--Button gradiente-->
+
+        <!--<Button
+            Height="50"
+            Width="200"
+            Content="Exemplo de botão"
+            FontSize="18"
+            Foreground="Orange"
+            Cursor="Hand" Click="Button_Click"
+            >
+            <Button.Background>
+                <LinearGradientBrush>
+                    <GradientStop Color="Yellow" Offset="0" />
+                    <GradientStop Color="Green" Offset="1" />
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>-->
+
+        <!--<StackPanel>
+            <TextBlock Margin="10" FontWeight="Bold">Controle de texto</TextBlock>
+            <TextBlock Margin="10 20 60 0" Foreground="Red">Cor de texto</TextBlock>
+            <TextBlock Margin="10" Background="Yellow">Cor de fundo</TextBlock>
+            <TextBlock Margin="10" ToolTip="Dica de texto" Text="Texto com dica"/>
+            <TextBlock Margin="10" Cursor="Help" Text="Cursor alterado"/>
+        </StackPanel>-->
+
+        <!--<StackPanel>
+            <TextBox Margin="10">Exemplo de caixa de texto</TextBox>
+            <TextBox Margin="10" IsEnabled="False">Não está disponível</TextBox>
+            <TextBox Margin="10" IsReadOnly="True">Somente leitura</TextBox>
+            <TextBox Margin="10" MaxLength="40">Máxima de caracteres</TextBox>
+            <TextBox Margin="10" AcceptsReturn="True" MaxHeight="80">Aceita parágrafo</TextBox>
+            <TextBox Margin="10" 
+                     Width="400"
+                     TextWrapping="Wrap"
+                     HorizontalAlignment="Left"
+                     AcceptsReturn="True"
+                     MaxHeight="80">Quebra de texto</TextBox>
+        </StackPanel>-->
+
+        <!--<StackPanel>
+            <CheckBox Margin="10">Opção 1</CheckBox>
+            <CheckBox Margin="10" IsChecked="True">Opção 2</CheckBox>
+            <CheckBox Margin="10" IsThreeState="True">Opção 3</CheckBox>
+        </StackPanel>-->
+
+        <!--<StackPanel>
+            <TextBlock Margin="10" FontWeight="Bold">Opção radio button 1</TextBlock>
+            <RadioButton Margin="10 2" GroupName="Radio1">Opção 1</RadioButton>
+
+            <RadioButton Margin="10 2" GroupName="Radio1">Opção 2</RadioButton>
+
+            <RadioButton Margin="10 2" GroupName="Radio1">Opção 3</RadioButton>
+            
+
+            <TextBlock Margin="10" FontWeight="Bold">Opção radio button 2</TextBlock>
+            <RadioButton Margin="10 2" GroupName="Radio2">Opção 1</RadioButton>
+
+            <RadioButton Margin="10 2" GroupName="Radio2">Opção 2</RadioButton>
+
+            <RadioButton Margin="10 2" GroupName="Radio2">Opção 3</RadioButton>
+        </StackPanel>-->
+
+        <!--<ListBox Margin="10" Width="200" HorizontalAlignment="Left" VerticalAlignment="Top">
+            <ListBoxItem IsSelected="True">Item 1</ListBoxItem>
+            <ListBoxItem>Item 2</ListBoxItem>
+            <ListBoxItem>Item 3</ListBoxItem>
+            <ListBoxItem>Item 4</ListBoxItem>
+        </ListBox>-->
+
+        <!--<StackPanel Margin="10">
+            <Label Margin="0 0 0 20" FontWeight="Bold">Exemplo de combo box</Label>
+
+            <ComboBox IsEditable="True" IsReadOnly="True" Text="Escolha uma opção">
+                <ComboBoxItem IsSelected="True">Escolha uma opção</ComboBoxItem>
+                <ComboBoxItem>Opção 1</ComboBoxItem>
+                <ComboBoxItem>Opção 2</ComboBoxItem>
+                <ComboBoxItem>Opção 3</ComboBoxItem>
+                <ComboBoxItem>Opção 4</ComboBoxItem>
+            </ComboBox>
+        </StackPanel>-->
+
+        <!--<StackPanel Orientation="Horizontal">
+            <Button
+                Margin="10"
+                Height="50"
+                Width="100"
+                HorizontalAlignment="Center"
+                VerticalAlignment="top"
+                FontSize="18"
+                Content="Botão1"
+             />
+
+            <Button
+                Margin="10"
+                Height="50"
+                Width="100"
+                HorizontalAlignment="Center"
+                VerticalAlignment="top"
+                FontSize="18"
+                Content="Botão2"
+             />
+
+            <Button
+                Margin="10"
+                Height="50"
+                Width="100"
+                HorizontalAlignment="Center"
+                VerticalAlignment="top"
+                FontSize="18"
+                Content="Botão3"
+             />
+
+            <Button
+                Margin="10"
+                Height="50"
+                Width="100"
+                HorizontalAlignment="Center"
+                VerticalAlignment="top"
+                FontSize="18"
+                Content="Botão4"
+             />
+
+            <Button
+                Margin="10"
+                Height="50"
+                Width="100"
+                HorizontalAlignment="Center"
+                VerticalAlignment="top"
+                FontSize="18"
+                Content="Botão5"
+             />
+
+            <Button
+                Margin="10"
+                Height="50"
+                Width="100"
+                HorizontalAlignment="Center"
+                VerticalAlignment="top"
+                FontSize="18"
+                Content="Botão6"
+             />
+        </StackPanel>-->
+
+        <WrapPanel Orientation="Horizontal" HorizontalAlignment="Center">
+            <Button
+                Margin="10"
+                Height="50"
+                Width="100"
+                HorizontalAlignment="Center"
+                VerticalAlignment="top"
+                FontSize="18"
+                Content="Botão1"
+             />
+
+            <Button
+                Margin="10"
+                Height="50"
+                Width="100"
+                HorizontalAlignment="Center"
+                VerticalAlignment="top"
+                FontSize="18"
+                Content="Botão2"
+             />
+
+            <Button
+                Margin="10"
+                Height="50"
+                Width="100"
+                HorizontalAlignment="Center"
+                VerticalAlignment="top"
+                FontSize="18"
+                Content="Botão3"
+             />
+
+            <Button
+                Margin="10"
+                Height="50"
+                Width="100"
+                HorizontalAlignment="Center"
+                VerticalAlignment="top"
+                FontSize="18"
+                Content="Botão4"
+             />
+
+            <Button
+                Margin="10"
+                Height="50"
+                Width="100"
+                HorizontalAlignment="Center"
+                VerticalAlignment="top"
+                FontSize="18"
+                Content="Botão5"
+             />
+
+            <Button
+                Margin="10"
+                Height="50"
+                Width="100"
+                HorizontalAlignment="Center"
+                VerticalAlignment="top"
+                FontSize="18"
+                Content="Botão6"
+             />
+        </WrapPanel>
+
+    </Grid>
+</Window>

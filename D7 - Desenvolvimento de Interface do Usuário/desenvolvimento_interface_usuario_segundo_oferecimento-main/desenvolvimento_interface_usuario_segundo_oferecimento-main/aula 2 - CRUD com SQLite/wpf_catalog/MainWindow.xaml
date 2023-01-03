@@ -1,0 +1,75 @@
+﻿<Window x:Class="wpf_catalog.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:wpf_catalog"
+        mc:Ignorable="d"
+        Title="Catalog" Height="500" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="45" />
+            <RowDefinition />
+            <RowDefinition />
+        </Grid.RowDefinitions>
+
+        <Label FontSize="18" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5" Grid.Row="0" Content="Products Catalog" FontWeight="Bold" />
+
+        <DataGrid x:Name="ProductDataGrid" AutoGenerateColumns="False" IsReadOnly="True" Grid.Row="1" ColumnWidth="*" Margin="5" IsSynchronizedWithCurrentItem="True" >
+
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Product Id" Binding="{Binding Id}" />
+                <DataGridTextColumn Header="SKU" Binding="{Binding SKU}" />
+                <DataGridTextColumn Header="Name" Binding="{Binding Name}" />
+                <DataGridTextColumn Header="Description" Binding="{Binding Description}" />
+                <DataGridTextColumn Header="Price" Binding="{Binding Price}" />
+            </DataGrid.Columns>
+            
+        </DataGrid>
+
+        <Grid Grid.Row="2">
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition />
+                <ColumnDefinition />
+            </Grid.ColumnDefinitions>
+
+            <Border Grid.Column="0" Margin="5" BorderThickness="1" BorderBrush="Black">
+                <StackPanel Margin="5">
+                    <Label Content="Add new product" HorizontalAlignment="Center" VerticalAlignment="Center" FontWeight="Bold" />
+
+                    <Grid Name="NewProductGrid">
+                        <Grid.RowDefinitions>
+                            <RowDefinition />
+                            <RowDefinition />
+                            <RowDefinition />
+                            <RowDefinition />
+                            <RowDefinition />
+                        </Grid.RowDefinitions>
+
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition />
+                            <ColumnDefinition />
+                        </Grid.ColumnDefinitions>
+
+                        <Label Grid.Row="0" Grid.Column="0" Content="SKU" />
+                        <TextBox Grid.Row="0" Grid.Column="1" Text="{Binding SKU}" />
+
+                        <Label Grid.Row="1" Grid.Column="0" Content="Name" />
+                        <TextBox Grid.Row="1" Grid.Column="1" Text="{Binding Name}" />
+
+                        <Label Grid.Row="2" Grid.Column="0" Content="Description" />
+                        <TextBox Grid.Row="2" Grid.Column="1" Text="{Binding Description}" />
+
+                        <Label Grid.Row="3" Grid.Column="0" Content="Price" />
+                        <TextBox Grid.Row="3" Grid.Column="1" Text="{Binding Price}" />
+
+                        <Button Grid.Row="4" Grid.ColumnSpan="2" Width="150" Content="Add" Margin="15" Click="AddItem" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                    </Grid>
+
+                </StackPanel>
+            </Border>
+            
+        </Grid>
+    </Grid>
+</Window>

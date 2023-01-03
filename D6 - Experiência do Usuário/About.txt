@@ -1,0 +1,16 @@
+Professora: Lucia Filgueiras (lfilguei@usp.br)
+Duração: (9h)
+Dias: 26/10 (QUA); 04/11 (SEX); 09/11 (QUA)
+
+Conteúdo:
+
+Projeto centrado em usuário
+Pesquisa de usuário
+Princípios de design
+Avaliação de interface do usuário
+
+
+Bibliografia:
+
+PREECE, J; SHARP, H.; ROGERS, Y. Interaction Design – beyond Human Computer Interaction. Wiley. 5th ed. 2019.
+BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Série Campus-SBC. 2010. Elsevier.

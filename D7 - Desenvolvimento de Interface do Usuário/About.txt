@@ -1,0 +1,13 @@
+Professor Saulo Macedo dos Santos (saulo.macedosantos@gmail.com)
+Duração (9h)
+Dias 0411 (SEX); 1111 (SEX); 1811 (SEX)
+
+Conteúdo
+
+XAML
+WPF controles, estilos e templates, personalização de controles
+
+
+Bibliografia
+
+MICROSOFT. Microsoft technical documentation, 2022. URL httpsdocs.microsoft.com

@@ -1,0 +1,44 @@
+E:\dev\acessing_db\bin\Debug\net6.0\acessing_db.exe
+E:\dev\acessing_db\bin\Debug\net6.0\acessing_db.deps.json
+E:\dev\acessing_db\bin\Debug\net6.0\acessing_db.runtimeconfig.json
+E:\dev\acessing_db\bin\Debug\net6.0\acessing_db.dll
+E:\dev\acessing_db\bin\Debug\net6.0\acessing_db.pdb
+E:\dev\acessing_db\bin\Debug\net6.0\System.Data.SqlClient.dll
+E:\dev\acessing_db\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+E:\dev\acessing_db\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+E:\dev\acessing_db\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+E:\dev\acessing_db\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\dev\acessing_db\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\dev\acessing_db\obj\Debug\net6.0\acessing_db.csproj.AssemblyReference.cache
+E:\dev\acessing_db\obj\Debug\net6.0\acessing_db.GeneratedMSBuildEditorConfig.editorconfig
+E:\dev\acessing_db\obj\Debug\net6.0\acessing_db.AssemblyInfoInputs.cache
+E:\dev\acessing_db\obj\Debug\net6.0\acessing_db.AssemblyInfo.cs
+E:\dev\acessing_db\obj\Debug\net6.0\acessing_db.csproj.CoreCompileInputs.cache
+E:\dev\acessing_db\obj\Debug\net6.0\acessing_db.csproj.CopyComplete
+E:\dev\acessing_db\obj\Debug\net6.0\acessing_db.dll
+E:\dev\acessing_db\obj\Debug\net6.0\refint\acessing_db.dll
+E:\dev\acessing_db\obj\Debug\net6.0\acessing_db.pdb
+E:\dev\acessing_db\obj\Debug\net6.0\acessing_db.genruntimeconfig.cache
+E:\dev\acessing_db\obj\Debug\net6.0\ref\acessing_db.dll
+E:\Works\CTEDS\primeiro oferecimento\compartilhado\programacao_avancada_csharp\accessing_db\bin\Debug\net6.0\acessing_db.exe
+E:\Works\CTEDS\primeiro oferecimento\compartilhado\programacao_avancada_csharp\accessing_db\bin\Debug\net6.0\acessing_db.deps.json
+E:\Works\CTEDS\primeiro oferecimento\compartilhado\programacao_avancada_csharp\accessing_db\bin\Debug\net6.0\acessing_db.runtimeconfig.json
+E:\Works\CTEDS\primeiro oferecimento\compartilhado\programacao_avancada_csharp\accessing_db\bin\Debug\net6.0\acessing_db.dll
+E:\Works\CTEDS\primeiro oferecimento\compartilhado\programacao_avancada_csharp\accessing_db\bin\Debug\net6.0\acessing_db.pdb
+E:\Works\CTEDS\primeiro oferecimento\compartilhado\programacao_avancada_csharp\accessing_db\bin\Debug\net6.0\System.Data.SqlClient.dll
+E:\Works\CTEDS\primeiro oferecimento\compartilhado\programacao_avancada_csharp\accessing_db\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+E:\Works\CTEDS\primeiro oferecimento\compartilhado\programacao_avancada_csharp\accessing_db\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+E:\Works\CTEDS\primeiro oferecimento\compartilhado\programacao_avancada_csharp\accessing_db\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+E:\Works\CTEDS\primeiro oferecimento\compartilhado\programacao_avancada_csharp\accessing_db\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Works\CTEDS\primeiro oferecimento\compartilhado\programacao_avancada_csharp\accessing_db\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Works\CTEDS\primeiro oferecimento\compartilhado\programacao_avancada_csharp\accessing_db\obj\Debug\net6.0\acessing_db.csproj.AssemblyReference.cache
+E:\Works\CTEDS\primeiro oferecimento\compartilhado\programacao_avancada_csharp\accessing_db\obj\Debug\net6.0\acessing_db.GeneratedMSBuildEditorConfig.editorconfig
+E:\Works\CTEDS\primeiro oferecimento\compartilhado\programacao_avancada_csharp\accessing_db\obj\Debug\net6.0\acessing_db.AssemblyInfoInputs.cache
+E:\Works\CTEDS\primeiro oferecimento\compartilhado\programacao_avancada_csharp\accessing_db\obj\Debug\net6.0\acessing_db.AssemblyInfo.cs
+E:\Works\CTEDS\primeiro oferecimento\compartilhado\programacao_avancada_csharp\accessing_db\obj\Debug\net6.0\acessing_db.csproj.CoreCompileInputs.cache
+E:\Works\CTEDS\primeiro oferecimento\compartilhado\programacao_avancada_csharp\accessing_db\obj\Debug\net6.0\acessing_db.csproj.CopyComplete
+E:\Works\CTEDS\primeiro oferecimento\compartilhado\programacao_avancada_csharp\accessing_db\obj\Debug\net6.0\acessing_db.dll
+E:\Works\CTEDS\primeiro oferecimento\compartilhado\programacao_avancada_csharp\accessing_db\obj\Debug\net6.0\refint\acessing_db.dll
+E:\Works\CTEDS\primeiro oferecimento\compartilhado\programacao_avancada_csharp\accessing_db\obj\Debug\net6.0\acessing_db.pdb
+E:\Works\CTEDS\primeiro oferecimento\compartilhado\programacao_avancada_csharp\accessing_db\obj\Debug\net6.0\acessing_db.genruntimeconfig.cache
+E:\Works\CTEDS\primeiro oferecimento\compartilhado\programacao_avancada_csharp\accessing_db\obj\Debug\net6.0\ref\acessing_db.dll

@@ -1,0 +1,8 @@
+	
+Parabens. A escolha dos componentes está adequada para a solução do problema apresentado. Algumas considerações para evolução do seus estudos e da arquitetura.
+
+Table Storage: Otima opção para manter os custos sobre controle, porem, se precisar de performance, o uso do CosmoDB será uma excelente opção.
+
+CDN: Ele nao conecta com o Data Factory, aqui seria legal ela entrando parte do conteudo, o estatico da parte web, poderiamos hospedar o conteudo estatico em um storage account por exemplo.
+
+Para escalar a camada web, que tal pensar em Webapps ou Kubernetes? VMs sao mais lentas para permitir responder a demandas rapidas de crecimento e como vamos expor APIS, que tal um serviço de segurança como Web Application Firewall e um serviço de API Management para controle de acesso as APIS ? São caminhos diferentes que também podem ajudar neste arquitetura sorriso. Parabens !!!

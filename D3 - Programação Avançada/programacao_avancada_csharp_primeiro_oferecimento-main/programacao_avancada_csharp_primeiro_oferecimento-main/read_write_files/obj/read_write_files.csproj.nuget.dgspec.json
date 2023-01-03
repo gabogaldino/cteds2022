@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Works\\CTEDS\\primeiro oferecimento\\compartilhado\\programacao_avancada_csharp\\read_write_files\\read_write_files.csproj": {}
+  },
+  "projects": {
+    "E:\\Works\\CTEDS\\primeiro oferecimento\\compartilhado\\programacao_avancada_csharp\\read_write_files\\read_write_files.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Works\\CTEDS\\primeiro oferecimento\\compartilhado\\programacao_avancada_csharp\\read_write_files\\read_write_files.csproj",
+        "projectName": "read_write_files",
+        "projectPath": "E:\\Works\\CTEDS\\primeiro oferecimento\\compartilhado\\programacao_avancada_csharp\\read_write_files\\read_write_files.csproj",
+        "packagesPath": "C:\\Users\\saulo\\.nuget\\packages\\",
+        "outputPath": "E:\\Works\\CTEDS\\primeiro oferecimento\\compartilhado\\programacao_avancada_csharp\\read_write_files\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\saulo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+E:\dev\read_write_files\bin\Debug\net6.0\read_write_files.exe
+E:\dev\read_write_files\bin\Debug\net6.0\read_write_files.deps.json
+E:\dev\read_write_files\bin\Debug\net6.0\read_write_files.runtimeconfig.json
+E:\dev\read_write_files\bin\Debug\net6.0\read_write_files.dll
+E:\dev\read_write_files\bin\Debug\net6.0\read_write_files.pdb
+E:\dev\read_write_files\obj\Debug\net6.0\read_write_files.csproj.AssemblyReference.cache
+E:\dev\read_write_files\obj\Debug\net6.0\read_write_files.GeneratedMSBuildEditorConfig.editorconfig
+E:\dev\read_write_files\obj\Debug\net6.0\read_write_files.AssemblyInfoInputs.cache
+E:\dev\read_write_files\obj\Debug\net6.0\read_write_files.AssemblyInfo.cs
+E:\dev\read_write_files\obj\Debug\net6.0\read_write_files.csproj.CoreCompileInputs.cache
+E:\dev\read_write_files\obj\Debug\net6.0\read_write_files.dll
+E:\dev\read_write_files\obj\Debug\net6.0\refint\read_write_files.dll
+E:\dev\read_write_files\obj\Debug\net6.0\read_write_files.pdb
+E:\dev\read_write_files\obj\Debug\net6.0\read_write_files.genruntimeconfig.cache
+E:\dev\read_write_files\obj\Debug\net6.0\ref\read_write_files.dll
+E:\Works\CTEDS\primeiro oferecimento\compartilhado\programacao_avancada_csharp\read_write_files\bin\Debug\net6.0\read_write_files.exe
+E:\Works\CTEDS\primeiro oferecimento\compartilhado\programacao_avancada_csharp\read_write_files\bin\Debug\net6.0\read_write_files.deps.json
+E:\Works\CTEDS\primeiro oferecimento\compartilhado\programacao_avancada_csharp\read_write_files\bin\Debug\net6.0\read_write_files.runtimeconfig.json
+E:\Works\CTEDS\primeiro oferecimento\compartilhado\programacao_avancada_csharp\read_write_files\bin\Debug\net6.0\read_write_files.dll
+E:\Works\CTEDS\primeiro oferecimento\compartilhado\programacao_avancada_csharp\read_write_files\bin\Debug\net6.0\read_write_files.pdb
+E:\Works\CTEDS\primeiro oferecimento\compartilhado\programacao_avancada_csharp\read_write_files\obj\Debug\net6.0\read_write_files.csproj.AssemblyReference.cache
+E:\Works\CTEDS\primeiro oferecimento\compartilhado\programacao_avancada_csharp\read_write_files\obj\Debug\net6.0\read_write_files.GeneratedMSBuildEditorConfig.editorconfig
+E:\Works\CTEDS\primeiro oferecimento\compartilhado\programacao_avancada_csharp\read_write_files\obj\Debug\net6.0\read_write_files.AssemblyInfoInputs.cache
+E:\Works\CTEDS\primeiro oferecimento\compartilhado\programacao_avancada_csharp\read_write_files\obj\Debug\net6.0\read_write_files.AssemblyInfo.cs
+E:\Works\CTEDS\primeiro oferecimento\compartilhado\programacao_avancada_csharp\read_write_files\obj\Debug\net6.0\read_write_files.csproj.CoreCompileInputs.cache
+E:\Works\CTEDS\primeiro oferecimento\compartilhado\programacao_avancada_csharp\read_write_files\obj\Debug\net6.0\read_write_files.dll
+E:\Works\CTEDS\primeiro oferecimento\compartilhado\programacao_avancada_csharp\read_write_files\obj\Debug\net6.0\refint\read_write_files.dll
+E:\Works\CTEDS\primeiro oferecimento\compartilhado\programacao_avancada_csharp\read_write_files\obj\Debug\net6.0\read_write_files.pdb
+E:\Works\CTEDS\primeiro oferecimento\compartilhado\programacao_avancada_csharp\read_write_files\obj\Debug\net6.0\read_write_files.genruntimeconfig.cache
+E:\Works\CTEDS\primeiro oferecimento\compartilhado\programacao_avancada_csharp\read_write_files\obj\Debug\net6.0\ref\read_write_files.dll

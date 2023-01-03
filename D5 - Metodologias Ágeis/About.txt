@@ -1,0 +1,15 @@
+Professor: Paulo Meirelles (paulorm.meirelles@gmail.com)
+Duração: (15h)
+Dias: 12/09 (SEG); 16/09 (SEX); 19/09 (SEG); 23/09 (SEX); 26/09 (SEG)
+
+Conteúdo:
+
+Scrum
+Kanban
+Histórias de usuário
+
+
+Bibliografia:
+
+RUBIN, K. S. Essential Scrum: A Practical Guide to the Most Popular Agile Process. Addison Wesley, 2012.
+BRECHNER, E. Agile Project Management with Kanban. Microsoft Press, 2015.

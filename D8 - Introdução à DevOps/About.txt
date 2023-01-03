@@ -1,0 +1,14 @@
+Professor: Saulo Macedo dos Santos (saulo.macedosantos@gmail.com)
+Duração: (12h)
+Dias: 10/10 (SEG); 14/10 (SEX); 17/10 (SEG); 21/10 (SEX)
+
+Conteúdo:
+
+Workflow
+Criação de pipelines no Azure
+Implantação
+
+
+Bibliografia:
+
+HUMBLE, J.; FARLEY, D. Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation. Addison-Wesley Professional, 2010.

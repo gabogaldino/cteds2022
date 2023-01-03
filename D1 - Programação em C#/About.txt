@@ -1,0 +1,15 @@
+Professor: Willian França Costa (wilianfc@usp.br)
+Duração: (15h)
+Dias: 10/08 (QUA) ; 12/08 (SEX); 15/08 (SEG); 17/08 (QUA); 19/08 (SEX)
+
+Conteúdo
+
+Comandos básicos (condições, variáveis, laços, etc.).
+Conceitos de programação Orientada a Objetos
+
+Bibliografia
+ALBAHARI, J. C# 9.0 in a Nutshell: The Definitive Reference. O'Reilly Media, 2021.
+BUDD, T. An Introduction to Object-Oriented Programming 3rd Edition. Addison-Wesley. 2001.
+
+Documentação do C#
+Clique o link https://docs.microsoft.com/pt-br/dotnet/csharp/ para abrir o recurso.

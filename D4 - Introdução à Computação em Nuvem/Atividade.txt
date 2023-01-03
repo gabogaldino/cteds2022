@@ -1,0 +1,29 @@
+Atividade - Disciplina de Introdução à computação em Nuvem
+Aberto: quinta, 22 set 2022, 00:00
+Objetivo:
+
+ Identificar os recursos de nuvem que suportam uma arquitetura de referência, Utilizando
+
+como base um padrão de desenvolvimento (design pattern), indicar quais soluções do Azure, podem ser
+
+utilizados para a construção da solução.
+
+Formato: 
+
+Livre. Pode ser texto, imagem, diagramas.
+
+Conteúdo: 
+
+O trabalho deve conter qual a arquitetura escolhida e a descrição do porquê o componente X
+
+foi escolhido para compor a solução.
+
+Data de entrega:
+
+Até 5 dias após a última aula, dia 13/10/2022.
+
+Referências:
+
+Azure Application Architecture Fundamentals - Azure Architecture Center | Microsoft Docs
+
+Cloud design patterns - Azure Architecture Center | Microsoft Docs

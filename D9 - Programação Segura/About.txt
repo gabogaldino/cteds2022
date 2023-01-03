@@ -1,0 +1,16 @@
+Professor: Eduardo Lopes Cominetti (ecominetti@larc.usp.br)
+Duração: (15h)
+Dias: 24/10 (SEG); 31/10 (SEG); 07/11 (SEG); 21/11 (SEG); 05/12 (SEG)
+
+Conteúdo:
+
+Introdução à cibersegurança: fundamentos e serviços de segurança
+Algoritmos criptográficos e protocolos para confidencialidade, integridade, autenticidade e não repúdio
+Autenticação e controle de acesso
+Programação Segura: erros comuns e melhores práticas
+
+
+Bibliografia:
+
+STALLINGS, W.; BROWN, L. Computer Security: Principles and Practice. 3rd Ed., Pearson 2014
+STALLINGS, W. Cryptography and Network Security. 5th Ed., Prentice-Hall, 2010.

@@ -1,0 +1,13 @@
+Controle de versão Professor: Bruno Albertini (balbertini@usp.br)
+Duração: (6h)
+Dias: 24/08 (QUA); 31/08 (QUA)
+
+Conteúdo:
+
+Introdução a sistema de controle de versão
+Git (push, pull, merge, branch, etc.)
+
+
+Bibliografia
+
+GITHUB. Github Docs. 2022. URL: https://docs.github.com/
